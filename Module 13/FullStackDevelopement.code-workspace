@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/FullStackDevelopement-main/FullStackDevelopement-main/Module 10"
+		},
+		{
+			"path": "../../../../Downloads/FullStackDevelopement-main (1)/FullStackDevelopement-main/Module 12"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FullStackDevelopement"
+	}
+}
